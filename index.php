@@ -6,7 +6,7 @@
 		</head>
 		<body>
 			<header>
-				<h1><img src="img/weird.jpg" alt="Weird" height="100" width="100"/>    Derek Mauldin</h1>
+				<h1><img src="img/weird.jpg" alt="Weird" height="75" width="75"/>   About Derek</h1>
 					<p>
 						<em><a href="https://bootcamp-coders.cnm.edu/" target="_blank">BootCamp Coders Student</a></em>,
 						Motorcycle Enthusiast, Comic Book & Movie & SCI FI Geek, Cat Lover
